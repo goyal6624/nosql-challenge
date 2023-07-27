@@ -23,7 +23,7 @@ To set up the database, I did the following:
 
 3. What are the top 5 establishments with a `RatingValue`` rating value of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
 
-- [`Volunteer`, Plumstead Manor Nursery', 'Iceland', 'TIWA N TIWA African Restaurant Ltd', 'Howe and Co Fish and Chips - Van 17']
+- ['Volunteer', 'Plumstead Manor Nursery', 'Iceland', 'TIWA N TIWA African Restaurant Ltd', 'Howe and Co Fish and Chips - Van 17']
 
 4. How many establishments in each Local Authority area have a hygiene score of 0?
 
