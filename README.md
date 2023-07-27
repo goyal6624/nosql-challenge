@@ -15,7 +15,7 @@ To set up the database, I did the following:
 
 1. Which establishments have a hygiene score equal to 20?
 
-- There are 41 total establishments with a hygiene score $\eq$ 20. To see the full list of them, see `NoSQL_analysis.ipynb`
+- There are 41 total establishments with a hygiene score = 20. To see the full list of them, see `NoSQL_analysis.ipynb`
 
 2. Which establishments in London have a `RatingValue` $\ge$ 4?
 
